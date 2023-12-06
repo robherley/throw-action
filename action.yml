@@ -8,10 +8,8 @@ branding:
   color: 'red'
 
 # Define your inputs here.
-inputs:
 
 # Define your outputs here.
-outputs:
 
 runs:
   using: node20
